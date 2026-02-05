@@ -1,3 +1,5 @@
+![Course Logo](assets/logo.png)
+
 # Sylloge by Manu
 
 A curated (and evolving) collection of university notes and study materials across multiple subjects.
@@ -44,6 +46,10 @@ This repository is **not intended to be a polished textbook**. Instead, it repre
 This section is reserved for notes and materials directly contained in this repository.
 
 - 🇮🇹 **[Sistemi operativi](/locals/sistemi%20operativi.pdf)**
+
+## 🛠️ Projects
+
+- 🇬🇧 **[NetSim](https://github.com/emanuelegaliano/netsim)**
 
 ---
 
