@@ -26,9 +26,11 @@ This repository is **not intended to be a polished textbook**. Instead, it repre
 - [GitHub profile – repositories overview](https://github.com/emanuelegaliano?tab=repositories)
 
 ### Course-specific and subject repositories
-- 🇮🇹 **[Fisica](https://github.com/emanuelegaliano/Fisica)**  
-
 - 🇮🇹 / 🇬🇧 **[Fondamenti di Analisi dei Dati](https://github.com/emanuelegaliano/Fundamentals-of-Data-Analysis)**
+
+- 🇮🇹 **[Machine Learning](https://github.com/emanuelegaliano/Machine-Learning)**
+
+- 🇮🇹 **[Fisica](https://github.com/emanuelegaliano/Fisica)**  
 
 - 🇮🇹 **[Introduzione al Data Mining](https://github.com/emanuelegaliano/IDM_2526)**  
 
