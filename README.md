@@ -34,8 +34,10 @@ This repository is **not intended to be a polished textbook**. Instead, it repre
 
 - 🇮🇹 **[Introduzione al Data Mining](https://github.com/emanuelegaliano/IDM_2526)**  
 
-- 🇮🇹 **[Interazione e Multimedia](https://github.com/emanuelegaliano/Interazione-e-Multimedia)**  
-  > Contribution note: I only added material through a pull request.
+
+### Contribution made to
+- 🇮🇹 **[Interazione e Multimedia](https://github.com/BoredDam/Interazione-e-Multimedia)** 
+  
 ---
 
 ## 📁 Local Notes

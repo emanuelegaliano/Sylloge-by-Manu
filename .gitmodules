@@ -1,3 +1,12 @@
 [submodule "Fundamentals-of-Data-Analysis"]
 	path = Fundamentals-of-Data-Analysis
 	url = https://github.com/emanuelegaliano/Fundamentals-of-Data-Analysis.git
+[submodule "Machine-Learning"]
+	path = Machine-Learning
+	url = https://github.com/emanuelegaliano/Machine-Learning.git
+[submodule "Fisica"]
+	path = Fisica
+	url = https://github.com/emanuelegaliano/Fisica.git
+[submodule "IDM_2526"]
+	path = IDM_2526
+	url = https://github.com/emanuelegaliano/IDM_2526.git
