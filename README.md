@@ -28,11 +28,11 @@ This repository is **not intended to be a polished textbook**. Instead, it repre
 ### Course-specific and subject repositories
 - 🇮🇹 / 🇬🇧 **[Fondamenti di Analisi dei Dati](https://github.com/emanuelegaliano/Fundamentals-of-Data-Analysis)**
 
-- 🇮🇹 **[Machine Learning](https://github.com/emanuelegaliano/Machine-Learning)**
+- 🇮🇹 **[Machine Learning](https://github.com/emanuelegaliano/Machine-Learning)** [WIP]
 
-- 🇮🇹 **[Fisica](https://github.com/emanuelegaliano/Fisica)**  
+- 🇮🇹 **[Fisica](https://github.com/emanuelegaliano/Fisica)**
 
-- 🇮🇹 **[Introduzione al Data Mining](https://github.com/emanuelegaliano/IDM_2526)**  
+- 🇮🇹 **[Introduzione al Data Mining](https://github.com/emanuelegaliano/IDM_2526)** [WIP]
 
 
 ### Contribution made to
