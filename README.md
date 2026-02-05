@@ -26,7 +26,7 @@ This repository is **not intended to be a polished textbook**. Instead, it repre
 - [GitHub profile – repositories overview](https://github.com/emanuelegaliano?tab=repositories)
 
 ### Course-specific and subject repositories
-- 🇮🇹 / 🇬🇧 **[Fondamenti di Analisi dei Dati](https://github.com/emanuelegaliano/Fundamentals-of-Data-Analysis)**
+- 🇮🇹 / 🇬🇧 **[Fondamenti di Analisi dei Dati](Fundamentals-of-Data-Analysis/README.md)**
 
 - 🇮🇹 **[Machine Learning](https://github.com/emanuelegaliano/Machine-Learning)**
 
