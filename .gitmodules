@@ -10,3 +10,6 @@
 [submodule "IDM_2526"]
 	path = IDM_2526
 	url = https://github.com/emanuelegaliano/IDM_2526.git
+[submodule "netsim"]
+	path = netsim
+	url = https://github.com/emanuelegaliano/netsim.git
