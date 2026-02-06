@@ -13,3 +13,9 @@
 [submodule "netsim"]
 	path = netsim
 	url = https://github.com/emanuelegaliano/netsim.git
+[submodule "unict-ml-year-2025-group-5-ReLU-tanti"]
+	path = unict-ml-year-2025-group-5-ReLU-tanti
+	url = https://github.com/Diego54523/unict-ml-year-2025-group-5-ReLU-tanti.git
+[submodule "Progetto-Architettura"]
+	path = Progetto-Architettura
+	url = https://github.com/emanuelegaliano/Progetto-Architettura

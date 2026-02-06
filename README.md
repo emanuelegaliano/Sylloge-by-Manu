@@ -46,11 +46,14 @@ This repository is **not intended to be a polished textbook**. Instead, it repre
 This section is reserved for notes and materials directly contained in this repository.
 
 - 🇮🇹 **[Sistemi operativi](/locals/sistemi%20operativi.pdf)**
+- 🇮🇹 **[Reti di Calcolatori](/locals/Reti%20di%20Calcolatori/)**
+
 
 ## 🛠️ Projects
 
-- 🇬🇧 **[NetSim](https://github.com/emanuelegaliano/netsim)**
-
+- 🇬🇧 **[NetSim - Ingegneria del Software](https://github.com/emanuelegaliano/netsim)**
+- 🇮🇹 **[MRI Diagnostic - Machine Learning](https://github.com/Diego54523/unict-ml-year-2025-group-5-ReLU-tanti)**
+- 🇮🇹 **[Calcolatrice - Architettura degli Elaboratori](https://github.com/emanuelegaliano/Progetto-Architettura)**
 ---
 
 ## 📄 License
