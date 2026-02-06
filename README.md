@@ -52,7 +52,7 @@ This section is reserved for notes and materials directly contained in this repo
 ## 🛠️ Projects
 
 - 🇬🇧 **[NetSim - Ingegneria del Software](https://github.com/emanuelegaliano/netsim)**
-- 🇮🇹 **[MRI Diagnostic - Machine Learning](https://github.com/Diego54523/unict-ml-year-2025-group-5-ReLU-tanti)**
+- 🇮🇹 **[MRI Diagnostics - Machine Learning](https://github.com/Diego54523/unict-ml-year-2025-group-5-ReLU-tanti)**
 - 🇮🇹 **[Calcolatrice - Architettura degli Elaboratori](https://github.com/emanuelegaliano/Progetto-Architettura)**
 ---
 
