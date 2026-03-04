@@ -36,6 +36,8 @@ This repository is **not intended to be a polished textbook**. Instead, it repre
 
 - 🇮🇹 **[Introduzione al Data Mining](https://github.com/emanuelegaliano/IDM_2526)** [WIP]
 
+- 🇮🇹 **[Programmazione Parallela su Architetture GPU](https://github.com/emanuelegaliano/GPU-Parallel-Programming)** [WIP]
+
 
 ### Contribution made to
 - 🇮🇹 **[Interazione e Multimedia](https://github.com/BoredDam/Interazione-e-Multimedia)** 
