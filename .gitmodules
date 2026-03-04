@@ -19,3 +19,6 @@
 [submodule "Progetto-Architettura"]
 	path = Progetto-Architettura
 	url = https://github.com/emanuelegaliano/Progetto-Architettura
+[submodule "GPU-Parallel-Programming"]
+	path = GPU-Parallel-Programming
+	url = https://github.com/emanuelegaliano/GPU-Parallel-Programming.git
