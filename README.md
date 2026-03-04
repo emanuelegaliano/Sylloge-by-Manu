@@ -28,16 +28,19 @@ This repository is **not intended to be a polished textbook**. Instead, it repre
 - [GitHub profile – repositories overview](https://github.com/emanuelegaliano?tab=repositories)
 
 ### Course-specific and subject repositories
-- 🇮🇹 / 🇬🇧 **[Fondamenti di Analisi dei Dati](https://github.com/emanuelegaliano/Fundamentals-of-Data-Analysis)**
+- 🇮🇹 / 🇬🇧 **[Fondamenti di Analisi dei Dati](https://github.com/emanuelegaliano/Fundamentals-of-Data-Analysis)** - *Project included*
+
 
 - 🇮🇹 **[Machine Learning](https://github.com/emanuelegaliano/Machine-Learning)** [WIP]
 
 - 🇮🇹 **[Fisica](https://github.com/emanuelegaliano/Fisica)**
 
-- 🇮🇹 **[Introduzione al Data Mining](https://github.com/emanuelegaliano/IDM_2526)** [WIP]
+- 🇮🇹 **[Introduzione al Data Mining](https://github.com/emanuelegaliano/IDM_2526)** - *Project included* [WIP]
 
 - 🇮🇹 **[Programmazione Parallela su Architetture GPU](https://github.com/emanuelegaliano/GPU-Parallel-Programming)** [WIP]
 
+
+> Note: When a repository is marked as “project included”, it means that the course project is also available in the same repository.
 
 ### Contribution made to
 - 🇮🇹 **[Interazione e Multimedia](https://github.com/BoredDam/Interazione-e-Multimedia)** 
@@ -51,7 +54,7 @@ This section is reserved for notes and materials directly contained in this repo
 - 🇮🇹 **[Reti di Calcolatori](/locals/Reti%20di%20Calcolatori/)**
 
 
-## 🛠️ Projects
+## 🛠️ Standalone Projects
 
 - 🇬🇧 **[NetSim - Ingegneria del Software](https://github.com/emanuelegaliano/netsim)**
 - 🇮🇹 **[MRI Diagnostics - Machine Learning](https://github.com/Diego54523/unict-ml-year-2025-group-5-ReLU-tanti)**
