@@ -35,7 +35,7 @@ This repository is **not intended to be a polished textbook**. Instead, it repre
 
 - 🇮🇹 **[Fisica](https://github.com/emanuelegaliano/Fisica)**
 
-- 🇮🇹 **[Introduzione al Data Mining](https://github.com/emanuelegaliano/IDM_2526)** - *Project included* [WIP]
+- 🇮🇹 **[Introduzione al Data Mining](https://github.com/emanuelegaliano/IDM_2526)** - *Project included*
 
 - 🇮🇹 **[Programmazione Parallela su Architetture GPU](https://github.com/emanuelegaliano/GPU-Parallel-Programming)** [WIP]
 
